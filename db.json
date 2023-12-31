@@ -1,0 +1,155 @@
+{
+  "Book": [
+    {
+      "id": 1,
+      "title": "Abisheak",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Marudhu",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "AbisheakMarudhu",
+      "author": "tsypicode"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "genre": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_year": 1949,
+      "genre": "Dystopian Fiction"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1925,
+      "genre": "Fiction"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "genre": "Romance"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_year": 1951,
+      "genre": "Fiction"
+    },
+    {
+      "title": "Alchemist",
+      "author": "Paulo Coely",
+      "publication_year": "2005",
+      "genre": "Feel Good",
+      "id": 6
+    },
+    {
+      "title": "THiruKural",
+      "author": "Thiruvalluvar",
+      "publication_year": "1000",
+      "genre": "Philosophy",
+      "id": 7
+    },
+    {
+      "title": "Power Of Subconcius Mind",
+      "author": "Joseph Murphy",
+      "publication_year": "2010",
+      "genre": "Philosophy",
+      "id": 8
+    },
+    {
+      "title": "Dance Of Dragon",
+      "author": "George R.R Martin",
+      "publication_year": "2001",
+      "genre": "Fantasy",
+      "id": 9
+    },
+    {
+      "title": "Game of thorns",
+      "author": "Martin",
+      "publication_year": "2001",
+      "genre": "Fantasy",
+      "id": 10
+    },
+    {
+      "title": "Full Metal Alchamist",
+      "author": "Non",
+      "publication_year": "2006",
+      "genre": "Chemic",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "abisheak@hero.com",
+      "password": "marudhu123"
+    },
+    {
+      "id": 2,
+      "email": "marudhu@mass.com",
+      "password": "12345678"
+    },
+    {
+      "email": "22ai002@skcet.ac.in",
+      "password": "abi123@marudhu",
+      "id": 3
+    },
+    {
+      "email": "abisheakmarudhus@gmail.com",
+      "password": "abi123",
+      "id": 4
+    },
+    {
+      "email": "727722euai002@skcet.ac.in",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "email": "srilaks@gmail.com",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "email": "22ai002@skcet.ac.in",
+      "password": "ijgw0ewf",
+      "id": 7
+    },
+    {
+      "email": "22ai002@skcet.ac.in",
+      "password": "124456",
+      "id": 8
+    },
+    {
+      "email": "727722euai002@skcet.ac.in",
+      "password": "abi123Marudhu",
+      "id": 9
+    },
+    {
+      "email": "727722euai024@skcet.ac.in",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "email": "rohes@gmail.com",
+      "password": "12345678",
+      "id": 11
+    }
+  ]
+}
